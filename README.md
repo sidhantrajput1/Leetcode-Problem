@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0792-binary-search](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0792-binary-search](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Matrix
 |  |
 | ------- |
