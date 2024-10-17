@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0792-binary-search](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0898-transpose-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0898-transpose-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,10 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0240-search-a-2d-matrix-ii) |
+| [0898-transpose-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0898-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0054-spiral-matrix) |
+| [0898-transpose-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1642-water-bottles) |
 ## String
 |  |
