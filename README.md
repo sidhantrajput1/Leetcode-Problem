@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0898-transpose-matrix) |
+| [1019-squares-of-a-sorted-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1019-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0633-sum-of-square-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0908-middle-of-the-linked-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0268-missing-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1019-squares-of-a-sorted-array) |
 ## Stack
 |  |
 | ------- |
