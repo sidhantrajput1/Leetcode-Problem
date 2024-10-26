@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0319-bulb-switcher) |
 | [0633-sum-of-square-numbers](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1236-n-th-tribonacci-number) |
@@ -170,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0238-product-of-array-except-self) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
