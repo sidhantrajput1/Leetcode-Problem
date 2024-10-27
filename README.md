@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0287-find-the-duplicate-number) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0898-transpose-matrix) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0268-missing-number) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1019-squares-of-a-sorted-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1019-squares-of-a-sorted-array) |
 ## Stack
 |  |
