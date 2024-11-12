@@ -1,15 +1,15 @@
 class Solution {
-    public static int countDigits(int num) {
-        int count  = 0;
-        int rem = 0;
-        
-        int res = num;
-        while(res > 0) {
-            rem = res % 10;
-            res = res / 10;
-            if( num % rem == 0) ++count;
+    public int countDigits(int num) {
+        int copy = num;
+        int digit = 0;
+        int count = 0;
+        while(num != 0) {
+            digit = num % 10;
+            num = num / 10;
+            if(copy%digit == 0) {
+                count++;
+            }
         }
-
         return count;
     }
 }
