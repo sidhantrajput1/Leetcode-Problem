@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0633-sum-of-square-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1019-squares-of-a-sorted-array) |
+| [1894-merge-strings-alternately](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Math
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0058-length-of-last-word) |
+| [1894-merge-strings-alternately](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1894-merge-strings-alternately) |
 ## Trie
 |  |
 | ------- |
