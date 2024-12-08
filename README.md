@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0142-linked-list-cycle-ii) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0268-missing-number) |
