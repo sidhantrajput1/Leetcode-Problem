@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1019-squares-of-a-sorted-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2232-adding-spaces-to-a-string) |
 ## Two Pointers
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0882-peak-index-in-a-mountain-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0268-missing-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1019-squares-of-a-sorted-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1019-squares-of-a-sorted-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Stack
 |  |
 | ------- |
