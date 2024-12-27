@@ -6,37 +6,33 @@ public:
         
     }
     
-    void push(int x) {// 0(1)
-        st.push(x);
+    void push(int x) {// 0(n)
+        // push at bottom
+        if(st.size() == 0) {
+            st.push(x);
+            return;
+        } else {
+            while(st.size() > 0 ) {
+                rt.push(st.top());
+                st.pop();
+            }
+            st.push(x);
+            while(rt.size()>0) {
+                st.push(rt.top());
+                rt.pop();
+            } 
+        }
     }
     
-    int pop() { // O(n)
-        // remove at bottom
-        while(st.size() > 0) {
-            rt.push(st.top());
-            st.pop();
-        } 
-        int x = rt.top();
-        rt.pop();
-        while(rt.size() > 0) {
-            st.push(rt.top());
-            rt.pop();
-        } 
+    int pop() { // O(1)
+        int x = st.top();
+        st.pop();
         return x;
     }
     
-    int peek() { // front O(n)
+    int peek() { // front O(1)
         // retrive at bottom
-        while(st.size() > 0) {
-            rt.push(st.top());
-            st.pop();
-        } 
-        int x = rt.top();
-        while(rt.size() > 0) {
-            st.push(rt.top());
-            rt.pop();
-        } 
-        return x;
+        return st.top();
     }
     
     bool empty() {
