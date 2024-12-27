@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0234-palindrome-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -247,10 +248,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0232-implement-queue-using-stacks) |
 | [0860-design-circular-queue](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0860-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0232-implement-queue-using-stacks) |
 | [0860-design-circular-queue](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0860-design-circular-queue) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
