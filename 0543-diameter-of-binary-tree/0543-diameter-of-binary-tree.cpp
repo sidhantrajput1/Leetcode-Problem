@@ -11,14 +11,12 @@
  */
 class Solution {
 public:
-    int maxDia = 0; // Global variable
-    int helper(TreeNode* root) {
-        if(root == NULL) return 0;
+    void helper(TreeNode* root, int &maxDia) {
+        if(root == NULL) return;
         int dia = level(root->left) + level(root->right);
         maxDia = max(dia, maxDia);
-        helper(root->left);
-        helper(root->right);
-        return maxDia;
+        helper(root->left, maxDia);
+        helper(root->right, maxDia);
     }
     int level(TreeNode* root) {
         if(root == NULL) return 0;
@@ -28,7 +26,9 @@ public:
     }
 
     int diameterOfBinaryTree(TreeNode* root) {
-        maxDia = 0; 
-        return helper(root);
+        int maxDia = 0; 
+        helper(root, maxDia);
+        return maxDia;
+        // avoid global variable
     }
 };
