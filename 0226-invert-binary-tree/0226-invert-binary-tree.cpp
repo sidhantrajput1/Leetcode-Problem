@@ -13,6 +13,7 @@ class Solution {
 public:
     void helper(TreeNode* root) {
         if(root==NULL) return;
+        // Swap the Node
         TreeNode* temp = root->left;
         root->left = root->right;
         root->right = temp;
