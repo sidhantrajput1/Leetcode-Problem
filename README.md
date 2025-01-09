@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0058-length-of-last-word) |
+| [0257-binary-tree-paths](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0257-binary-tree-paths) |
 | [0649-dota2-senate](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1894-merge-strings-alternately) |
@@ -290,22 +291,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0226-invert-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
