@@ -11,12 +11,6 @@
  */
 class Solution {
 public:
-    void solve(TreeNode* temp, vector<int>& ans) {
-        if(temp==NULL) return;
-        solve(temp->left, ans);
-        solve(temp->right, ans);
-        ans.push_back(temp->val);
-    }
     vector<int> postorderTraversal(TreeNode* root) {
         vector<int> ans;
         stack<TreeNode*> st;
