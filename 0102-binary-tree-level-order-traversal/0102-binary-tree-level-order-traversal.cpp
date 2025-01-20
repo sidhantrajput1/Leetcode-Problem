@@ -1,8 +1,10 @@
 class Solution {
 public:
     vector<vector<int>> levelOrder(TreeNode* root) {
+        // store the level wise nodes
         vector<vector<int>> ans;
-        if(root==NULL) return ans;
+        // if tree is empty then return empty tree
+        if(root==NULL) return {};
 
         queue<TreeNode*> q;
         q.push(root);
