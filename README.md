@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0240-search-a-2d-matrix-ii) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0112-path-sum) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0112-path-sum) |
@@ -380,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0784-insert-into-a-binary-search-tree) |
