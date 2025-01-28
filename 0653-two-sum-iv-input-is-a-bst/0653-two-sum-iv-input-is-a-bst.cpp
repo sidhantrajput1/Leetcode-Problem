@@ -1,23 +1,20 @@
 class Solution {
 public:
-    void inorder(TreeNode* root, vector<int>& ans) {
+    void inorder(TreeNode* root, unordered_set<int>& s) {
         if(root==NULL) return;
-        inorder(root->left, ans);
-        ans.push_back(root->val);
-        inorder(root->right, ans);
+        inorder(root->left, s);
+        s.insert(root->val);
+        inorder(root->right, s);
     }
 
     bool findTarget(TreeNode* root, int k) {
-        vector<int> ans;
-        inorder(root, ans);
-        int st = 0;
-        int end = ans.size() - 1;
-        while(st<end) {
-            int sum = ans[st] + ans[end];
-            if(sum==k) return true;
-            else if (sum < k ) st++ ;
-            else end--;
-        }
-        return false;
+        unordered_set<int> s;
+        inorder(root, s);
+        bool flag = false;
+        for(auto ele:s){
+            int ans=k-ele;
+            if(ele!=ans && s.find(ans)!=s.end()) return true;
+        } 
+        return flag;
      }
 };
