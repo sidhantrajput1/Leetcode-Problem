@@ -1,6 +1,5 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        int n = nums.length;
         int count = 0;
         int candidate = 0;
         for(int i = 0; i < nums.length; i++) {
@@ -9,9 +8,7 @@ class Solution {
             }
             if(nums[i] == candidate) {
                 count++;
-            } else {
-                count--;
-            }
+            } else count--;
         }
         return candidate;
     }
