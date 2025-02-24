@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2232-adding-spaces-to-a-string) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Two Pointers
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1894-merge-strings-alternately) |
 | [2232-adding-spaces-to-a-string](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2232-adding-spaces-to-a-string) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Trie
 |  |
 | ------- |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0169-majority-element) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Sliding Window
 |  |
 | ------- |
