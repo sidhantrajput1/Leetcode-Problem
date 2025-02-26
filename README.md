@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1603-running-sum-of-1d-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1603-running-sum-of-1d-array) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2232-adding-spaces-to-a-string) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1236-n-th-tribonacci-number) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
