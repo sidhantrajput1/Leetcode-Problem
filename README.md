@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2232-adding-spaces-to-a-string) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Two Pointers
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1236-n-th-tribonacci-number) |
 | [1642-water-bottles](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1642-water-bottles) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Binary Search
 |  |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0268-missing-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Linked List
 |  |
 | ------- |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0169-majority-element) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Sliding Window
 |  |
