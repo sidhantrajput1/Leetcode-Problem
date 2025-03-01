@@ -7,10 +7,10 @@ public:
                 if(nums[i] + nums[j] == target){
                     v.push_back(i);
                     v.push_back(j);
-                    return v;
+                    // return v;
                 }
             }
         }
-        return {};
+        return v;
     }
 };
