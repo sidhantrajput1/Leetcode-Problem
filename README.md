@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1013-fibonacci-number) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
