@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0334-increasing-triplet-subsequence) |
 | [0414-third-maximum-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0628-maximum-product-of-three-numbers) |
+| [0724-find-pivot-index](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0860-design-circular-queue) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1603-running-sum-of-1d-array) |
 ## Brainteaser
 |  |
