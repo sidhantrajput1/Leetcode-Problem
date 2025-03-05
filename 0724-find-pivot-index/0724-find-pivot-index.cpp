@@ -13,10 +13,12 @@ public:
         for(int i = 0; i < n; i++) {
             // Right sum = totalSum - leftSum - current element (nums[i])
             int rightSum = totalSum - leftSum - nums[i];
+            cout<<rightSum<<" ";
 
             if(leftSum == rightSum) return i;
 
             leftSum += nums[i];
+            // cout<<leftSum<<" ";
         }
 
         return -1;
