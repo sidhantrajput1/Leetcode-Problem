@@ -13,12 +13,7 @@ public:
             }
         }
 
-        int sum = 0;
         sort(ans.begin(), ans.end());
-        for(int i = 0; i < ans.size(); i++) {
-            cout<<ans[i]<<" ";
-        }
-
         vector<int> v;
 
         for(int i = 1; i < ans.size(); i++) {
