@@ -21,17 +21,16 @@ public:
             if(max < height[i]) max = height[i];
         }
 
-        // find minimum value  // Minimum array
-        vector<int> mini(n);
+        // Minimum array -> prev as minimum array
         for(int i = 0; i < n; i++) {
-            mini[i] = min(prev[i], next[i]); 
+            prev[i] = min(prev[i], next[i]); 
         }
 
         // Calculting water
         int water = 0;
         for(int i = 1; i < n-1; i++) {
-            if(height[i] < mini[i]) {
-                water += (mini[i] - height[i]);
+            if(height[i] < prev[i]) {
+                water += (prev[i] - height[i]);
             }
         }
 
