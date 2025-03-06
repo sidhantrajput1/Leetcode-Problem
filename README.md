@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0257-binary-tree-paths) |
 | [0649-dota2-senate](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0268-missing-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0628-maximum-product-of-three-numbers) |
