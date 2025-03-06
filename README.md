@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2551-apply-operations-to-an-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2551-apply-operations-to-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [3227-find-missing-and-repeated-values](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2649-count-total-number-of-colored-cells](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2649-count-total-number-of-colored-cells) |
+| [3227-find-missing-and-repeated-values](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0898-transpose-matrix) |
+| [3227-find-missing-and-repeated-values](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [3227-find-missing-and-repeated-values](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/3227-find-missing-and-repeated-values) |
 ## Linked List
 |  |
 | ------- |
