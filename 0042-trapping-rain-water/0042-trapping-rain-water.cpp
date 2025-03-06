@@ -1,11 +1,5 @@
 class Solution {
 public:
-    void display(vector<int>& height) {
-        for(int i = 0; i < height.size(); i++) {
-            cout<<height[i]<<" ";
-        }
-        cout<<" ";
-    }
     int trap(vector<int>& height) {
         int n = height.size();
 
@@ -33,7 +27,7 @@ public:
             mini[i] = min(prev[i], next[i]); 
         }
 
-        // Calculting array
+        // Calculting water
         int water = 0;
         for(int i = 1; i < n-1; i++) {
             if(height[i] < mini[i]) {
