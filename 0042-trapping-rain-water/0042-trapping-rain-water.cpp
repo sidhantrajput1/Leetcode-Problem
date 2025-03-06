@@ -12,18 +12,12 @@ public:
             if(max < height[i]) max = height[i];
         }
 
-        // next greatest element
-        vector<int> next(n);
-        next[n-1] = -1;
+        // next greatest element array -> prev as next
+        prev[n-1] = -1;
         max = height[n-1];
         for(int i = n-2; i >= 0; i--) {
-            next[i] = max;
+            if(max < prev[i] )prev[i] = max;
             if(max < height[i]) max = height[i];
-        }
-
-        // Minimum array -> prev as minimum array
-        for(int i = 0; i < n; i++) {
-            prev[i] = min(prev[i], next[i]); 
         }
 
         // Calculting water
