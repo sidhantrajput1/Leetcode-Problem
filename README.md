@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0054-spiral-matrix) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0086-partition-list) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1013-fibonacci-number) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0145-binary-tree-postorder-traversal) |
@@ -321,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0042-trapping-rain-water) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
