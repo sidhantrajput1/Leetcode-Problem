@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1894-merge-strings-alternately) |
 | [2232-adding-spaces-to-a-string](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2232-adding-spaces-to-a-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Trie
 |  |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0239-sliding-window-maximum) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Monotonic Queue
 |  |
 | ------- |
