@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2551-apply-operations-to-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3227-find-missing-and-repeated-values](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/3227-find-missing-and-repeated-values) |
+| [3463-alternating-groups-i](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/3463-alternating-groups-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0239-sliding-window-maximum) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3463-alternating-groups-i](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/3463-alternating-groups-i) |
 ## Monotonic Queue
 |  |
 | ------- |
