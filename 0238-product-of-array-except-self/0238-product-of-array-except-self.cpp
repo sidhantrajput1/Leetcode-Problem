@@ -3,7 +3,6 @@ public:
     vector<int> productExceptSelf(vector<int>& nums) {
         int n = nums.size();
         vector<int> pre(n);
-        vector<int> suf(n);
 
         // prefix product array
         int p = nums[0];
