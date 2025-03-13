@@ -1,34 +1,21 @@
 class Solution {
 public:
-    int maxSatisfaction(vector<int>& nums) {
-        int n = nums.size();
-        sort(nums.begin(), nums.end());
-
-
-        vector<int> ans(n);
-
-        ans[n-1] = nums[n-1];
-        for(int i = n-2; i >= 0; i--) {
-            ans[i] = nums[i] + ans[i+1];
-        }
+    int maxSatisfaction(vector<int>& satisfaction) {
+        sort(satisfaction.begin(), satisfaction.end());
         
-        int idx = -1;
-
-        for(int i = 0; i < ans.size(); i++) {
-           if(ans[i] > 0) {
-            idx = i;
-            break;
-
-           }
-        }
-        if(idx == -1) return 0;
-        int x = 1;
-        int maxx = 0;
-        for(int i =idx; i<n; i++) {
-            maxx = maxx + nums[i]*x;
-            x++;
+        int n = satisfaction.size();
+        int sum = 0;
+        int total = 0;
+        
+        // Traverse from the end and accumulate the sum only if it increases the result
+        for (int i = n - 1; i >= 0; i--) {
+            // If adding the current satisfaction makes the total greater, we keep adding
+            if (sum + satisfaction[i] > 0) {
+                sum += satisfaction[i];
+                total += sum;
+            }
         }
 
-        return maxx;
+        return total;
     }
 };
