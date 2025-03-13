@@ -13,19 +13,11 @@ public:
             p *= nums[i];
         }
 
-        // suffix product array
+        // suffix product array (in prefix only)
         p = nums[n-1];
-        suf[n-1] = 1;
         for(int i = n-2; i >=0 ; i--) {
-            suf[i] = p;
+            pre[i] *= p;
             p *= nums[i];
-        }
-
-        // ans product array Except self
-        // pre[i] = pre[i] * suf[i];
-
-        for(int i = 0; i < n; i++) {
-            pre[i] = pre[i] * suf[i];
         }
 
         return pre;
