@@ -15,12 +15,17 @@ public:
 
         // find answer queries
         for(int i = 0; i < m; i++) {
-            int len = 0;
-            for(int j = 0; j < n; j++) {
-                if(nums[j] > queries[i]) break;
-                else len++;
+            int maxLen = 0;
+            int st = 0, end = n-1;
+            while(st <= end) {
+                int mid = st + (end - st) / 2;
+                if(nums[mid] > queries[i]) end = mid - 1;
+                else {
+                    maxLen = mid + 1;
+                    st = mid + 1;
+                }
             }
-            ans[i] = len;
+            ans[i] = maxLen;
         }
 
         // return ans;
