@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0238-product-of-array-except-self) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0268-missing-number) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1603-running-sum-of-1d-array) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0239-sliding-window-maximum) |
 | [1138-grumpy-bookstore-owner](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1138-grumpy-bookstore-owner) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
