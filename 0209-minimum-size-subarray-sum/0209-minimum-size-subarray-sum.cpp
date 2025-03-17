@@ -2,26 +2,24 @@ class Solution {
 public:
     int minSubArrayLen(int target, vector<int>& nums) {
         int n = nums.size();
-        int minWinLength = INT_MAX;
-        int currSum = 0;
+        int i = 0; 
+        int j = 0;
 
-        int low = 0, high = 0;
+        int minLen = INT_MAX;
+        int len = 0;
+        int sum = 0;
 
-        while (high < n) {
-            currSum += nums[high];
-            high++;
-
-            // try to reduce window size
-            while(currSum >= target) {
-                int currWinSize = high - low;
-
-                // update minimum length of window
-                minWinLength = min(minWinLength, currWinSize);
-                currSum = currSum - nums[low];
-                low++;
+        while (j < n) {
+            sum = sum + nums[j];
+            while (sum >= target) {
+                len = j - i + 1;
+                minLen = min(minLen, len);
+                sum -= nums[i];
+                i++;
             }
+            j++;
         }
 
-        return (minWinLength == INT_MAX) ? 0 : minWinLength;
+        return minLen == INT_MAX ? 0 : minLen;
     }
 };
