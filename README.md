@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-reducing-dishes](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1503-reducing-dishes) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1603-running-sum-of-1d-array) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1236-n-th-tribonacci-number) |
 | [1503-reducing-dishes](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1503-reducing-dishes) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Bit Manipulation
 |  |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0239-sliding-window-maximum) |
 | [1046-max-consecutive-ones-iii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1046-max-consecutive-ones-iii) |
 | [1138-grumpy-bookstore-owner](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1138-grumpy-bookstore-owner) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3463-alternating-groups-i](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/3463-alternating-groups-i) |
 ## Monotonic Queue
