@@ -8,23 +8,24 @@ public:
 
         int count = 0, product = 1;
 
-        while(j < n) {
+        while ( j < n) {
             product *= nums[j];
 
             while (product >= k) {
-                count = count + (j - i);
+                count += (j - i);
                 product /= nums[i];
                 i++; 
-            }
+            } 
+
             j++;
         }
 
         while (i < n) {
-            count = count + (j - i);
+            count += j - i;
             product /= nums[i];
-            i++; 
-        }    
+            i++;
+        }
 
-        return count;    
+        return count;
     }
 };
