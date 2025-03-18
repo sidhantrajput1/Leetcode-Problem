@@ -8,7 +8,7 @@ public:
 
         int ptr = nums.size() - 1;
 
-        while (st < end) {
+        while (st <= end) {
             int left = nums[st] * nums[st];
             int right = nums[end] * nums[end];
 
