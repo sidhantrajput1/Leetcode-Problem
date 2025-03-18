@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1603-running-sum-of-1d-array) |
+| [1677-matrix-diagonal-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1677-matrix-diagonal-sum) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1833-find-the-highest-altitude](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1833-find-the-highest-altitude) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0891-score-after-flipping-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0898-transpose-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1677-matrix-diagonal-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
