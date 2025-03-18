@@ -3,14 +3,23 @@ public:
     vector<int> sortedSquares(vector<int>& nums) {
 
         vector<int> ans(nums.size());
-        int idx = 0;
-        for(int i = 0; i < nums.size(); i++) {
-            ans[i] = nums[i] * nums[i];
-        }
-        sort(ans.begin(), ans.end());
+        int st = 0;
+        int end = nums.size() - 1;
 
-        for(int i = 0; i< nums.size(); i++) {
-            cout<<ans[i]<<" ";
+        int ptr = nums.size() - 1;
+
+        while (st < end) {
+            int left = nums[st] * nums[st];
+            int right = nums[end] * nums[end];
+
+            if(left > right) {
+                ans[ptr] = left;
+                st++;
+            } else {
+                ans[ptr] = right;
+                end--;
+            }
+            ptr--;
         }
         return ans;
     }
