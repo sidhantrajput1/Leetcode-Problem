@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1138-grumpy-bookstore-owner](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1138-grumpy-bookstore-owner) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1503-reducing-dishes](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1503-reducing-dishes) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1046-max-consecutive-ones-iii) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1833-find-the-highest-altitude) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2469-longest-subsequence-with-limited-sum) |
