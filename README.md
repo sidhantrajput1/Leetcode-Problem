@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0257-binary-tree-paths) |
 | [0649-dota2-senate](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1894-merge-strings-alternately](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1894-merge-strings-alternately) |
 | [2232-adding-spaces-to-a-string](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2232-adding-spaces-to-a-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1046-max-consecutive-ones-iii) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1833-find-the-highest-altitude) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2469-longest-subsequence-with-limited-sum) |
