@@ -2,11 +2,15 @@ class Solution {
 public:
     vector<int> shuffle(vector<int>& nums, int n) {
         int i = 0, j = n;
-        vector<int > ans;
+        int si = nums.size();
 
-        while (i < n && j < 2 * n) {
-            ans.push_back(nums[i]);
-            ans.push_back(nums[j]);
+        vector<int > ans;
+        
+        while (i < n && j < si) {
+            int s = nums[i];
+            int t = nums[j];
+            ans.push_back(s);
+            ans.push_back(t);
             i++; j++;
         }
 
