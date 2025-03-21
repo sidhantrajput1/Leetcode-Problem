@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1138-grumpy-bookstore-owner](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1138-grumpy-bookstore-owner) |
+| [1242-matrix-block-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1242-matrix-block-sum) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1503-reducing-dishes](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1503-reducing-dishes) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0891-score-after-flipping-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0898-transpose-matrix) |
+| [1242-matrix-block-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1242-matrix-block-sum) |
 | [1677-matrix-diagonal-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1677-matrix-diagonal-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1046-max-consecutive-ones-iii) |
+| [1242-matrix-block-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1242-matrix-block-sum) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1603-running-sum-of-1d-array) |
