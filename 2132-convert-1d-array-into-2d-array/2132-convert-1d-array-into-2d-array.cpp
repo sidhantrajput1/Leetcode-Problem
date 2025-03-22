@@ -8,10 +8,8 @@ public:
             return {};
         }
 
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                mat[i][j] = nums[i*n+j];
-            }
+        for (int i = 0; i < m * n; i++) {
+            mat[i / n][i % n] = nums[i];
         }
 
         return mat;
