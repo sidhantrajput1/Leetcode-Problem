@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0334-increasing-triplet-subsequence) |
 | [0414-third-maximum-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0414-third-maximum-number) |
+| [0566-reshape-the-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0724-find-pivot-index) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0240-search-a-2d-matrix-ii) |
+| [0566-reshape-the-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0566-reshape-the-matrix) |
 | [0891-score-after-flipping-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0898-transpose-matrix) |
 | [1242-matrix-block-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1242-matrix-block-sum) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0258-add-digits) |
+| [0566-reshape-the-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0898-transpose-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1642-water-bottles](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1642-water-bottles) |
