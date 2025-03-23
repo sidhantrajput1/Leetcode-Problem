@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1833-find-the-highest-altitude](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1833-find-the-highest-altitude) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2102-find-the-middle-index-in-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2102-find-the-middle-index-in-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2232-adding-spaces-to-a-string) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1833-find-the-highest-altitude) |
+| [2102-find-the-middle-index-in-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2102-find-the-middle-index-in-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Brainteaser
 |  |
