@@ -11,7 +11,10 @@ public:
     string reversePrefix(string word, char ch) {
         int idx = word.find(ch);
 
-        if (idx != string::npos) reverse(word, 0, idx);
+        if (idx >= 0 && idx < word.size())  {
+            reverse(word, 0, idx);
+        }
+        
         return word;
     }
 };
