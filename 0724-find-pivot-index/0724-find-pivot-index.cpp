@@ -1,24 +1,17 @@
 class Solution {
 public:
     int pivotIndex(vector<int>& nums) {
-        int n = nums.size();
-
         int totalSum = 0;
-        for(int i = 0; i < n; i++) {
+        for (int i = 0; i < nums.size(); i++) {
             totalSum += nums[i];
         }
         
         int leftSum = 0;
-        // Iterate through the array to find the pivot index
-        for(int i = 0; i < n; i++) {
-            // Right sum = totalSum - leftSum - current element (nums[i])
-            int rightSum = totalSum - leftSum - nums[i];
-            cout<<rightSum<<" ";
-
-            if(leftSum == rightSum) return i;
-
+        for (int i = 0; i < nums.size(); i++){
+            if (leftSum == totalSum - leftSum - nums[i]) {
+                return i;
+            }
             leftSum += nums[i];
-            // cout<<leftSum<<" ";
         }
 
         return -1;
