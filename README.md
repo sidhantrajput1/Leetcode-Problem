@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1138-grumpy-bookstore-owner](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1138-grumpy-bookstore-owner) |
 | [1242-matrix-block-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1242-matrix-block-sum) |
+| [1319-unique-number-of-occurrences](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1503-reducing-dishes](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1503-reducing-dishes) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0268-missing-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1319-unique-number-of-occurrences](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1319-unique-number-of-occurrences) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/3227-find-missing-and-repeated-values) |
