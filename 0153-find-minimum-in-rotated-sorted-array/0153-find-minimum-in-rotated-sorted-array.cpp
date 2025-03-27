@@ -10,6 +10,6 @@ public:
                 hi=mid;  // may be possible that it may be the smallest element so we do hi=mid , insted of hi=mid-1
             }
         }
-        return nums[hi];
+        return nums[lo];  // also return nums[hi]
     }
 };
