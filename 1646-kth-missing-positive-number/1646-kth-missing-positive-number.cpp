@@ -7,20 +7,12 @@ public:
         int i = 0;
 
         while (i < n && k > 0) {
-
-            if (nums[i] == num) {
-                i++;
-            }
-            else {
-                k--;
-            }
-
+            if (nums[i] == num) i++;
+            else k--;
             num++;
         }
 
-        while (k--) {
-            num++;
-        }
+        while (k--) num++;
 
         return num - 1;
     }
