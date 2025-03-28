@@ -10,11 +10,8 @@ public:
 
             int howManyMissingNumber = nums[mid] - (mid + 1);
 
-            if (howManyMissingNumber < k) {
-                left = mid + 1;
-            } else {
-                right = mid - 1;
-            }
+            if (howManyMissingNumber < k) left = mid + 1;
+            else right = mid - 1;
         }
 
         return left + k;
