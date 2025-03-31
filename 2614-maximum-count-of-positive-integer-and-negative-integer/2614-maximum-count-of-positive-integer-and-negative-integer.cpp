@@ -38,12 +38,12 @@ public:
             }
         }
         
-        return firstPos;
+        return n - firstPos;
     }
 
     int maximumCount(vector<int>& nums) {
 
-        int firstPos = nums.size() - firstPostiveIdx(nums);
+        int firstPos = firstPostiveIdx(nums);
         int lastNeg = lastNegtiveIdx(nums);
 
         return max(lastNeg, firstPos);
