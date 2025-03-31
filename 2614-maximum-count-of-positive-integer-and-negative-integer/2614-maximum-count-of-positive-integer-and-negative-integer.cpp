@@ -17,7 +17,7 @@ public:
             }
         }
         
-        return firstNeg;
+        return firstNeg + 1;
     }
 
     int firstPostiveIdx(vector<int>& nums) {
@@ -44,7 +44,7 @@ public:
     int maximumCount(vector<int>& nums) {
 
         int firstPos = nums.size() - firstPostiveIdx(nums);
-        int lastNeg = lastNegtiveIdx(nums)+1;
+        int lastNeg = lastNegtiveIdx(nums);
 
         return max(lastNeg, firstPos);
     }
