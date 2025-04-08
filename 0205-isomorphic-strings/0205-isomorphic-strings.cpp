@@ -1,26 +1,27 @@
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
-        if(s.size() != t.size()) return false;
+        map<char, char> mp1;
+        map<char, char> mp2;
 
-        vector<int> v(150, 1000);
-        for(int i = 0; i < s.size(); i++) {
-            int idx = (int)s[i]; // ascii value
-            if( v[idx] == 1000) v[idx] = s[i] - t[i];
-            else if ( v[idx] != (s[i] - t[i])) return false;
+        for (int i = 0; i < s.size(); i++) {
+            int ch1 = s[i];
+            int ch2 = t[i];
+
+            if (mp1.count(ch1)) {
+                if (mp1[ch1] != ch2) {
+                    return false;
+                }
+            } else
+                mp1[ch1] = ch2;
+
+            if (mp2.count(ch2)) {
+                if (mp2[ch2] != ch1) {
+                    return false;
+                }
+            } else
+                mp2[ch2] = ch1;
         }
-
-        // emptying vector
-        for(int i = 0; i < 150; i++) {
-            v[i] = 1000;
-        }
-
-        for(int i = 0; i < s.size(); i++) {
-            int idx = (int)t[i]; // ascii value
-            if( v[idx] == 1000) v[idx] = t[i] - s[i];
-            else if ( v[idx] != (t[i] - s[i])) return false;
-        }        
-
         return true;
     }
 };
