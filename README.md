@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1503-reducing-dishes](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1503-reducing-dishes) |
+| [1505-create-target-array-in-the-given-order](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1505-create-target-array-in-the-given-order) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0898-transpose-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1505-create-target-array-in-the-given-order](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1505-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1642-water-bottles) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2132-convert-1d-array-into-2d-array) |
