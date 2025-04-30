@@ -39,7 +39,7 @@ public:
             }
         }
 
-        // Step -> Swap the idx tp idx+1
+        // Step -> Swap the idx to idx+1
         int temp = nums[idx];
         nums[idx] = nums[j];
         nums[j] = temp;
