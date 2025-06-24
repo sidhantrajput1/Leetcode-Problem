@@ -8,7 +8,6 @@ public:
     int minCostClimbingStairs(vector<int>& cost) {
         int n = cost.size();
         vector<int> dp(n, -1);
-        cout<<n;
         return min(helper(cost, n-1, dp), helper(cost, n-2, dp));
     }
 };
