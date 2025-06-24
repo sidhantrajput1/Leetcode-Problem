@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0724-find-pivot-index) |
+| [0747-min-cost-climbing-stairs](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0860-design-circular-queue) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0152-maximum-product-subarray) |
+| [0747-min-cost-climbing-stairs](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1236-n-th-tribonacci-number) |
 | [1503-reducing-dishes](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1503-reducing-dishes) |
