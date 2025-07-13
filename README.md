@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0075-sort-colors) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0119-pascals-triangle-ii) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0334-increasing-triplet-subsequence) |
 | [0649-dota2-senate](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0649-dota2-senate) |
 | [0891-score-after-flipping-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0891-score-after-flipping-matrix) |
