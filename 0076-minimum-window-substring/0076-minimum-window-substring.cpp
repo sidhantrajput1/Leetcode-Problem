@@ -3,49 +3,49 @@ public:
     string minWindow(string s, string t) {
         int n = s.length();
 
-    if (t.length() > n) 
-        return "";
+        if (t.length() > n) 
+            return "";
 
-    unordered_map<char, int> mp; 
+        unordered_map<char, int> mp; 
 
-    for (char& ch : t) 
-        mp[ch]++;
-    
-    int requiredCount = t.length();
-    int i = 0, j = 0;
+        for (char& ch : t) 
+            mp[ch]++;
+        
+        int requiredCount = t.length();
+        int i = 0, j = 0;
 
-    int windowSize = INT_MAX;    
-    int start_i = 0;
+        int windowSize = INT_MAX;    
+        int start_i = 0;
 
-    while (j < n) {
-        char ch = s[j];
+        while (j < n) {
+            char ch = s[j];
 
-        if (mp[ch] > 0) {
-            requiredCount--;
-        }
-
-        mp[ch]--;
-
-        while (requiredCount == 0) {
-
-            // start shrinking the window
-            int currentWindowSize = j - i + 1;
-            if (windowSize > currentWindowSize) {
-                windowSize = currentWindowSize;
-                start_i = i;
+            if (mp[ch] > 0) {
+                requiredCount--;
             }
 
-            mp[s[i]]++;
+            mp[ch]--;
 
-            if (mp[s[i]] > 0) {
-                requiredCount++;
+            while (requiredCount == 0) {
+
+                // start shrinking the window
+                int currentWindowSize = j - i + 1;
+                if (windowSize > currentWindowSize) {
+                    windowSize = currentWindowSize;
+                    start_i = i;
+                }
+
+                mp[s[i]]++;
+
+                if (mp[s[i]] > 0) {
+                    requiredCount++;
+                }
+
+                i++;
             }
 
-            i++;
+            j++;
         }
-
-        j++;
-    }
-    return windowSize == INT_MAX ?  "" : s.substr(start_i, windowSize);
+        return windowSize == INT_MAX ?  "" : s.substr(start_i, windowSize);
     }
 };
