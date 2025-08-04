@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3227-find-missing-and-repeated-values](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/3227-find-missing-and-repeated-values) |
 | [3463-alternating-groups-i](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/3463-alternating-groups-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Matrix
 |  |
 | ------- |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2128-reverse-prefix-of-word](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0239-sliding-window-maximum) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Quickselect
 |  |
 | ------- |
@@ -466,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0042-trapping-rain-water) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Design
 |  |
 | ------- |
@@ -640,8 +645,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0307-range-sum-query-mutable) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0307-range-sum-query-mutable) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 <!---LeetCode Topics End-->
