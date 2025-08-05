@@ -1,20 +1,22 @@
 class Solution {
 public:
     vector<int> dp;
-    int helper(vector<int>& nums, int i) {
-        if (i >= nums.size()) return 0;
+    int helper(vector<int>& nums) {
+        int n = nums.size();
+        dp.clear();
+        dp.resize(n);
+        if (n == 1) return nums[0];
 
-        if (dp[i] != -1) return dp[i];
+        dp[n - 1] = nums[n - 1];
+        dp[n - 2] = max(nums[n-1], nums[n-2]);
 
-        int loot = nums[i] + helper(nums, i +2);
-        int no_loot = 0 + helper(nums, i + 1);
+        for (int i = n - 3; i >= 0; i--) {
+            dp[i] = max(nums[i] + dp[i + 2], 0 + dp[i + 1]);
+        }
 
-        return dp[i] = max(loot, no_loot);
+        return dp[0];
     }
     int rob(vector<int>& nums) {
-        // clear garbage value
-        dp.clear();
-        dp.resize(105, -1); // 1 <= nums.length <= 100
-        return helper(nums, 0);
+        return helper(nums);
     }
 };
