@@ -5,8 +5,8 @@ public:
 
         if (dp[i] != -1) return dp[i];
 
-        int loot = nums[i] + helper(nums, i + 2, dp);
-        int no_loot = helper(nums, i + 1, dp);
+        int loot = nums[i] + helper(nums, i +2, dp);
+        int no_loot =  helper(nums, i + 1, dp);
 
         return dp[i] = max(loot, no_loot);
     }
