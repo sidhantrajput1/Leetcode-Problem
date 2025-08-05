@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1236-n-th-tribonacci-number) |
+| [1263-number-of-dice-rolls-with-target-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1503-reducing-dishes](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1503-reducing-dishes) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
