@@ -657,4 +657,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0307-range-sum-query-mutable) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
