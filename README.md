@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0162-find-peak-element) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0257-binary-tree-paths) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0139-word-break) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0322-coin-change) |
@@ -333,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1236-n-th-tribonacci-number) |
 ## Hash Table
@@ -343,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0160-intersection-of-two-linked-lists) |
