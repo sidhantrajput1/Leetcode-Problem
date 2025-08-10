@@ -678,4 +678,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0176-second-highest-salary) |
 | [1908-recyclable-and-low-fat-products](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1908-recyclable-and-low-fat-products) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
