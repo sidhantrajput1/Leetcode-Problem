@@ -20,6 +20,7 @@ public:
         
         vector<vector<int>> dp(m, vector<int>(n, -1));
 
+        // if starting and ending cell is blocked then return 0;
         if (obstacleGrid[0][0] == 1 || obstacleGrid[m-1][n-1] == 1) return 0;
 
         return helper(0, 0, m-1, n-1, obstacleGrid, dp);
