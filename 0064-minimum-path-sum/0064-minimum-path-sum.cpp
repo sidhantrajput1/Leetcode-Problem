@@ -7,7 +7,7 @@ public:
         if (dp[sr][sc] != -1) return dp[sr][sc];
 
         int rightWays = helper(sr, sc+1, er, ec, nums, dp);
-        int bottomWays = bottomWays = helper(sr+1, sc , er, ec, nums, dp);
+        int bottomWays = helper(sr+1, sc , er, ec, nums, dp);
         
         dp[sr][sc] = nums[sr][sc] + min(rightWays, bottomWays);
 
