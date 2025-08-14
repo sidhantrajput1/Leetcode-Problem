@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0215-kth-largest-element-in-an-array) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0733-flood-fill) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0257-binary-tree-paths) |
@@ -644,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0404-sum-of-left-leaves) |
@@ -700,4 +704,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0133-clone-graph) |
 | [0871-keys-and-rooms](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0871-keys-and-rooms) |
 | [1916-find-center-of-star-graph](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1916-find-center-of-star-graph) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
