@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0979-di-string-match) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1019-squares-of-a-sorted-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1019-squares-of-a-sorted-array) |
+| [1036-rotting-oranges](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1138-grumpy-bookstore-owner](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1138-grumpy-bookstore-owner) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-score-after-flipping-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0898-transpose-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0967-minimum-falling-path-sum) |
+| [1036-rotting-oranges](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1036-rotting-oranges) |
 | [1242-matrix-block-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1242-matrix-block-sum) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1677-matrix-diagonal-sum) |
@@ -660,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0871-keys-and-rooms) |
+| [1036-rotting-oranges](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1036-rotting-oranges) |
 ## Backtracking
 |  |
 | ------- |
