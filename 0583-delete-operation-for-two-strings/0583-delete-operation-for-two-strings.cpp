@@ -12,9 +12,9 @@ public:
             return dp[i][j] = helper(s1, s2, i + 1, j + 1);
         } 
         else {
-            int dels1 = 1 + helper(s1, s2, i + 1, j);
-            int dels2 = 1 + helper(s1, s2, i, j + 1);
-            return dp[i][j] = min(dels1, dels2);
+            // int dels1 = 1 + helper(s1, s2, i + 1, j);
+            // int dels2 = 1 + helper(s1, s2, i, j + 1);
+            return dp[i][j] = 1 + min(helper(s1, s2, i + 1, j), helper(s1, s2, i, j + 1));
         }
         
     } 
