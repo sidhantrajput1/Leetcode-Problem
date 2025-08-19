@@ -1,25 +1,29 @@
 class Solution {
 public:
+    int m, n;
     int dp[1001][1001];
-    int helper(string &s, int i, int j) {
+    int solve(string &s1, string &s2, int i, int j) {
 
-        if (i > j) return 0;
-        if (i == j) return 1;
+        if (i >= m || j >= n) return 0;
 
         if (dp[i][j] != -1) return dp[i][j];
 
-        if (s[i] == s[j]) {
-            return dp[i][j] = 2 + helper(s, i + 1, j - 1);
+        if (s1[i] == s2[j]) {
+            return dp[i][j] = 1 + solve(s1, s2, i + 1, j + 1);
         } else {
-            return dp[i][j] = max(helper(s, i + 1, j), helper(s, i, j - 1));
+            return dp[i][j] = max(solve(s1, s2, i + 1, j), solve(s1, s2, i, j + 1));
         }
 
     }
-    int longestPalindromeSubseq(string s) {
-        int n = s.length();
-        
+    int longestPalindromeSubseq(string s1) {
+        string s2 = s1;
+        reverse(begin(s2), end(s2));
+
+        m = s1.length();
+        n = s2.length();
+
         memset(dp, -1, sizeof(dp));
 
-        return helper(s, 0, n - 1);
+        return solve(s1, s2, 0, 0);
     }
 };
