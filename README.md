@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0344-reverse-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0516-longest-palindromic-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0583-delete-operation-for-two-strings](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0583-delete-operation-for-two-strings) |
 | [0649-dota2-senate](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0649-dota2-senate) |
 | [0953-reverse-only-letters](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0953-reverse-only-letters) |
 | [0979-di-string-match](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0979-di-string-match) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0583-delete-operation-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1013-fibonacci-number) |
