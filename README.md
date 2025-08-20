@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0953-reverse-only-letters) |
 | [0979-di-string-match](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0979-di-string-match) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1170-shortest-common-supersequence](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1454-remove-palindromic-subsequences](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1454-remove-palindromic-subsequences) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1013-fibonacci-number) |
+| [1170-shortest-common-supersequence](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1250-longest-common-subsequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1263-number-of-dice-rolls-with-target-sum) |
