@@ -8,17 +8,16 @@ public:
 
         if (dp[i][j] != -1) return dp[i][j];
         
-        // if s1[i] == s2[j]
         if (s1[i] == s2[j]) {
             return dp[i][j] = helper(s1, s2, i + 1, j + 1);
         }
 
         // insert
-        int insert = helper(s1, s2, i, j + 1);
-        // delete
-        int delet = helper(s1, s2, i + 1, j);
-        // replace
-        int replace = helper(s1, s2, i + 1, j + 1);
+        // int insert = helper(s1, s2, i, j + 1);
+        // // delete
+        // int delet = helper(s1, s2, i + 1, j);
+        // // replace
+        // int replace = helper(s1, s2, i + 1, j + 1);
 
         // int replace = 0;
         // int delet = 0;
@@ -30,7 +29,8 @@ public:
         //     replace = helper(s1, s2, i + 1, j + 1);
         // }
 
-        return dp[i][j] = 1 + min({insert, delet , replace});
+        return dp[i][j] = 1 + min({helper(s1, s2, i, j + 1), 
+        helper(s1, s2, i + 1, j) , helper(s1, s2, i + 1, j + 1)});
     }
     int minDistance(string s1, string s2) {
         m = s1.size(), n = s2.size();
