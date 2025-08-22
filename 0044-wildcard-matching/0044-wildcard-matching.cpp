@@ -4,9 +4,13 @@ public:
     int dp[2001][2001]; // -1 = not computed, 0 = false, 1 = true
 
     bool helper(int i, int j, string &s, string &p) {
+        // both strings finished
         if (i < 0 && j < 0) return true;
+
+        // pattern finished but string not
         if (i >= 0 && j < 0) return false;
 
+        // string finished but pattern remains
         if (i < 0 && j >= 0) {
             for (int k = 0; k <= j; k++) {
                 if (p[k] != '*') return false;
@@ -16,14 +20,17 @@ public:
 
         if (dp[i][j] != -1) return dp[i][j];
 
+        // match char or '?'
         if (s[i] == p[j] || p[j] == '?') {
             return dp[i][j] = helper(i - 1, j - 1, s, p);
         } 
 
+        // '*' matches empty OR one char
         if (p[j] == '*') {
             return dp[i][j] = (helper(i - 1, j, s, p) || helper(i, j - 1, s, p));
         }
 
+        // no match
         return dp[i][j] = false;
     }
 
