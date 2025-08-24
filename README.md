@@ -631,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0871-keys-and-rooms) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -685,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1036-rotting-oranges) |
+| [2793-count-the-number-of-complete-components](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2793-count-the-number-of-complete-components) |
 ## Backtracking
 |  |
 | ------- |
@@ -734,9 +736,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0871-keys-and-rooms) |
 | [1916-find-center-of-star-graph](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1916-find-center-of-star-graph) |
+| [2793-count-the-number-of-complete-components](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2793-count-the-number-of-complete-components) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0547-number-of-provinces) |
+| [2793-count-the-number-of-complete-components](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2793-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
