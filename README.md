@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0518-coin-change-ii) |
 | [0566-reshape-the-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0628-maximum-product-of-three-numbers) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0417-pacific-atlantic-water-flow) |
+| [0498-diagonal-traverse](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0733-flood-fill) |
 | [0891-score-after-flipping-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0891-score-after-flipping-matrix) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0258-add-digits) |
+| [0498-diagonal-traverse](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0898-transpose-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0987-reveal-cards-in-increasing-order) |
