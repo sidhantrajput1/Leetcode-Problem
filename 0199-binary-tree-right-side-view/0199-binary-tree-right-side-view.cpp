@@ -1,30 +1,19 @@
 class Solution {
 public:
+    int levels(TreeNode* root) {
+        if(root==NULL) return 0;
+        return 1 + max(levels(root->left), levels(root->right));
+    }
+    void preorder(TreeNode* root, vector<int>& ans, int level) {
+        if(root==NULL) return;
+        ans[level] = root->val;
+        preorder(root->left, ans, level+1);
+        preorder(root->right, ans, level+1);
+    }
     vector<int> rightSideView(TreeNode* root) {
-        
-        if(root==NULL) return {}; 
-
-        vector<int> ans;
-        queue<TreeNode*> q;
-        q.push(root);
-
-        while(!q.empty()){
-            int levelSize = q.size();
-            for(int i=0;i<levelSize;i++){
-                
-                TreeNode* currNode = q.front();
-                q.pop();
-
-                if(i==0)  ans.push_back(currNode->val);  // agar i==0 hai , to iska mtlb ye hai ki particular level ke jo sbse right me hai vhi ele aaega 
-                 
-                // means we are pushing the right node first followed by the left node 
-
-                if(currNode->right) q.push(currNode->right);
-                if(currNode->left) q.push(currNode->left);
-
-            }
-        }
-
+        cout<<levels(root);
+        vector<int> ans(levels(root), 0);
+        preorder(root, ans, 0);
         return ans;
     }
 };
