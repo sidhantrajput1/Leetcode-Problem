@@ -1,19 +1,26 @@
 class Solution {
 public:
-    int levels(TreeNode* root) {
-        if(root==NULL) return 0;
-        return 1 + max(levels(root->left), levels(root->right));
-    }
-    void preorder(TreeNode* root, vector<int>& ans, int level) {
-        if(root==NULL) return;
-        ans[level] = root->val;
-        preorder(root->left, ans, level+1);
-        preorder(root->right, ans, level+1);
-    }
     vector<int> rightSideView(TreeNode* root) {
-        cout<<levels(root);
-        vector<int> ans(levels(root), 0);
-        preorder(root, ans, 0);
-        return ans;
-    }
+        if (root == nullptr) return {};
+
+        vector<int> res;
+        queue<TreeNode*> q;
+        q.push(root);
+
+        while(!q.empty()) {
+            int level = q.size();
+
+            for (int i = 0; i < level; i++) {
+                auto curr = q.front();
+                q.pop();
+
+                if (i == level - 1) res.push_back(curr->val);
+
+                if (curr->left) q.push(curr->left);
+                if (curr->right) q.push(curr->right);
+            }
+        }
+
+        return res;
+    } 
 };
