@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0342-power-of-four) |
+| [0382-linked-list-random-node](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0382-linked-list-random-node) |
 | [0507-perfect-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0633-sum-of-square-numbers) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0382-linked-list-random-node) |
 | [0860-design-circular-queue](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -747,4 +749,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0547-number-of-provinces) |
 | [2793-count-the-number-of-complete-components](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2793-count-the-number-of-complete-components) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
