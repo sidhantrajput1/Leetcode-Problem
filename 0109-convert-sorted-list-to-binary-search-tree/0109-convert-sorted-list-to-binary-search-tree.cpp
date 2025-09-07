@@ -24,7 +24,6 @@ public:
         root->left = sortedListToBST(head);
         root->right = sortedListToBST(slow->next);
 
-        // cout<<slow->val;      
 
         return root;  
     }
