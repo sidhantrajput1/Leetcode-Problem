@@ -1,30 +1,28 @@
 class Solution {
 public:
     ListNode* swapNodes(ListNode* head, int k) {
-        int length = 0;
+        ListNode* p1 = NULL;         
+        ListNode* p2 = NULL;  
+
         ListNode* temp = head;
 
-        while (temp != nullptr) {
-            length++;
+        while (temp != NULL) {
+            if (p2 != nullptr) {
+                p2 = p2->next;
+            }
+
+            k--;
+
+            if(k == 0) {
+                p1 = temp;
+                p2 = head; // activate
+            }
+
             temp = temp->next;
-        }
+        }  
 
-        int firstPos = k;
-        int secondPos = length - k + 1;
+        swap(p1->val, p2->val); 
 
-        ListNode* node1 = head;
-        ListNode* node2 = head;
-
-        for (int i = 1; i < firstPos; i++) {
-            node1 = node1->next;
-        }
-
-        for (int i = 1; i < secondPos; i++) {
-            node2 = node2->next;
-        }
-
-        swap(node1->val, node2->val);
-
-        return head;
+        return head;    
     }
 };
