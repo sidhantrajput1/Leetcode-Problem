@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0086-partition-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0239-sliding-window-maximum) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -762,4 +765,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0382-linked-list-random-node) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
