@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0455-assign-cookies) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0382-linked-list-random-node) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0860-design-circular-queue](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0908-middle-of-the-linked-list) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
