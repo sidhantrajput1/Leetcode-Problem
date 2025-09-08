@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0268-missing-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1319-unique-number-of-occurrences](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1370-count-number-of-nice-subarrays) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2215-finding-3-digit-even-numbers) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0382-linked-list-random-node) |
 | [0860-design-circular-queue](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0908-middle-of-the-linked-list) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Sorting
