@@ -1,24 +1,45 @@
 class Solution {
 public:
-    int pairSum(ListNode* head) {
-        stack<int> st;
+    ListNode* middleNode(ListNode* head) {
+        ListNode* slow = head;
+        ListNode* fast = head;
 
+        while (fast && fast->next) {
+            slow = slow->next;       // one step
+            fast = fast->next->next; // two step
+        }
+        // return middle node
+        return slow;
+    }
+
+    ListNode* reverseList(ListNode* head) {
         ListNode* curr = head;
+        ListNode* prev = nullptr;
+        ListNode* after = nullptr;
 
         while (curr != nullptr) {
-            st.push(curr->val);
-            curr = curr->next;
+            after = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = after;
         }
+        return prev;
+    }
 
-        int N = st.size();
-        curr = head;
-        int count = 1, result = 0;
+    int pairSum(ListNode* head) {
+        // 1. find mid
+        ListNode* mid = middleNode(head);
 
-        while (count <= N / 2) {
-            result = max(result, curr->val + st.top());
+        // 2. reverse the linked list mid to end
+        mid = reverseList(mid);
+
+        // 3. find the max element
+        int result = 0;
+        ListNode* curr = head;
+        while (mid != nullptr) {
+            result = max(result, curr->val + mid->val);
             curr = curr->next;
-            st.pop();
-            count++;
+            mid = mid->next;
         }
 
         return result;
