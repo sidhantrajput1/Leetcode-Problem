@@ -11,7 +11,9 @@ public:
         return last;
     }
 
-    ListNode* findMiddle(ListNode* head) {
+    
+    bool isPalindrome(ListNode* head) {
+        // 1. Find middle
         ListNode* slow = head;
         ListNode* fast = head;
 
@@ -20,14 +22,8 @@ public:
             fast = fast->next->next;
         }
 
-        return slow;
-    }
-    bool isPalindrome(ListNode* head) {
-        // 1. Find middle
-        ListNode* mid = findMiddle(head);
-
         // 2. Reverse second half
-        ListNode* revNode = reverseList(mid);
+        ListNode* revNode = reverseList(slow);
 
         // 3. Compare both halves
         ListNode* first = head;
