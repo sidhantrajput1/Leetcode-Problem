@@ -1,11 +1,9 @@
 class Solution {
 public:
     ListNode* reverseBetween(ListNode* head, int left, int right) {
-        if (head == nullptr || head->next == nullptr) return head;
-
-        ListNode* dummy  = new ListNode(-1);
+        ListNode* dummy = new ListNode(-1);
         dummy->next = head;
-        
+
         ListNode* prev = dummy;
 
         for (int i = 1; i < left; i++) {
@@ -14,11 +12,12 @@ public:
 
         ListNode* curr = prev->next;
 
-        for (int i = 1; i <= right - left; i++) {
-            ListNode* temp = prev->next; // 0
-            prev->next = curr->next; // 1
-            curr->next = curr->next->next; // 2
-            prev->next->next = temp; // 3
+
+        for (int i = 0; i < right - left; i++) {
+            ListNode* temp = prev->next;
+            prev->next = curr->next;
+            curr->next = curr->next->next;
+            prev->next->next = temp;
         }
 
         return dummy->next;
