@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2649-count-total-number-of-colored-cells](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2649-count-total-number-of-colored-cells) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2573-remove-nodes-from-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2573-remove-nodes-from-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Prefix Sum
 |  |
