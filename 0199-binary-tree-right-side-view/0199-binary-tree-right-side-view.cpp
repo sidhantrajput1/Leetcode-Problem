@@ -4,23 +4,23 @@ public:
         if (root == nullptr) return {};
 
         vector<int> res;
-        queue<TreeNode*> q;
-        q.push(root);
+        queue<TreeNode*> qu;
+        qu.push(root);
 
-        while(!q.empty()) {
-            int level = q.size();
+        while (!qu.empty()) {
+            int level = qu.size();
 
             for (int i = 0; i < level; i++) {
-                auto curr = q.front();
-                q.pop();
+                auto curr = qu.front();
+                qu.pop();
 
                 if (i == level - 1) res.push_back(curr->val);
 
-                if (curr->left) q.push(curr->left);
-                if (curr->right) q.push(curr->right);
+                if (curr->left) qu.push(curr->left);
+                if (curr->right) qu.push(curr->right);
             }
         }
 
         return res;
-    } 
+    }
 };
