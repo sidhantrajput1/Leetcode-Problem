@@ -635,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
@@ -701,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
@@ -724,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0871-keys-and-rooms) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1036-rotting-oranges) |
 | [2793-count-the-number-of-complete-components](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2793-count-the-number-of-complete-components) |
 ## Backtracking
