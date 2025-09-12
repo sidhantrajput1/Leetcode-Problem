@@ -1,31 +1,22 @@
 class Solution {
 public:
+    int countNodes(TreeNode* root) {
+        if (root == NULL)
+            return 0;
+        return 1 + countNodes(root->left) + countNodes(root->right);
+    }
+
+    bool solve(TreeNode* root, int idx, int totalNodes) {
+        if (root == NULL) return true;
+
+        if (idx > totalNodes) return false;
+
+        return solve(root->left, 2 * idx, totalNodes) &&
+               solve(root->right, 2 * idx + 1, totalNodes);
+    }
+
     bool isCompleteTree(TreeNode* root) {
-        // using bfs
-        queue<TreeNode*> q;
-        q.push(root);
-
-        bool past = false; // check if any past node is true or false
-
-        while (!q.empty()) {
-            auto node = q.front();
-            q.pop();
-
-            // if node is find null then mark past equal to true
-            if (node == NULL) {
-                past = true;
-            } else {
-                // if any past node is null then return false because tree is a
-                // not complete binary tree
-                if (past == true) {
-                    return false;
-                }
-
-                q.push(node->left);
-                q.push(node->right);
-            }
-        }
-
-        return true;
+        int totalNodes = countNodes(root);
+        return solve(root, 1, totalNodes);
     }
 };
