@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1138-grumpy-bookstore-owner](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1138-grumpy-bookstore-owner) |
+| [1207-delete-nodes-and-return-forest](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1207-delete-nodes-and-return-forest) |
 | [1242-matrix-block-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1242-matrix-block-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1370-count-number-of-nice-subarrays) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0268-missing-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1207-delete-nodes-and-return-forest](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1207-delete-nodes-and-return-forest) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1319-unique-number-of-occurrences](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1370-count-number-of-nice-subarrays) |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0998-check-completeness-of-a-binary-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1207-delete-nodes-and-return-forest) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -669,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0871-keys-and-rooms) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1207-delete-nodes-and-return-forest) |
 | [2793-count-the-number-of-complete-components](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
@@ -705,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0998-check-completeness-of-a-binary-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1207-delete-nodes-and-return-forest) |
 ## Breadth-First Search
 |  |
 | ------- |
