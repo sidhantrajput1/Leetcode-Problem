@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0263-ugly-number) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0344-reverse-string) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0326-power-of-three) |
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0145-binary-tree-postorder-traversal) |
+| [0224-basic-calculator](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0234-palindrome-linked-list) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
