@@ -1,29 +1,21 @@
 class Solution {
 public:
-    int operate(int a, int b, string token) {
-        if (token == "+") {
-            return a + b;
-        } else if (token == "-") {
-            return a - b;
-        } else if (token == "*") {
-            return a * b;
-        }
-
-        return a / b;
-    }
+   
     int evalRPN(vector<string>& tokens) {
-        stack<int> st;
+         stack<int> st;
 
-        for (int i = 0; i < tokens.size(); i++) {
-            string token = tokens[i];
+        unordered_map<string, function<int(int,int)>> mp = {
+            {"+", [](int a, int b){ return a + b; }},
+            {"-", [](int a, int b){ return a - b; }},
+            {"*", [](int a, int b){ return a * b; }},
+            {"/", [](int a, int b){ return a / b; }}
+        };
 
-            if (token == "+" || token == "-" || token == "*" || token == "/") {
-                int a = st.top();
-                st.pop(); // right operand
-                int b = st.top();
-                st.pop(); // left operand
-                int result = operate(b, a, token);
-                st.push(result);
+        for (string& token : tokens) {
+            if (mp.find(token) != mp.end()) {
+                int a = st.top(); st.pop(); // right operand
+                int b = st.top(); st.pop(); // left operand
+                st.push(mp[token](b, a));   // important: left op right
             } else {
                 st.push(stoi(token));
             }
