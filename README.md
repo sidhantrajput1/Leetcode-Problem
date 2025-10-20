@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1454-remove-palindromic-subsequences](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1454-remove-palindromic-subsequences) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1666-make-the-string-great](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1666-make-the-string-great) |
 | [1894-merge-strings-alternately](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1666-make-the-string-great](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1666-make-the-string-great) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2128-reverse-prefix-of-word](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
