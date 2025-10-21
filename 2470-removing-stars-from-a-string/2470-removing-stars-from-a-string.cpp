@@ -4,11 +4,10 @@ public:
         stack<char> st;
 
         for(char &ch : s) {
-            if (ch == '*') {
+            if (ch == '*')
                 st.pop();
-            } else {
+            else 
                 st.push(ch);
-            }
         }
 
         string res = "";
