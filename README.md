@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1505-create-target-array-in-the-given-order) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1552-build-an-array-with-stack-operations](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0983-validate-stack-sequences) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1505-create-target-array-in-the-given-order](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1505-create-target-array-in-the-given-order) |
+| [1552-build-an-array-with-stack-operations](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1552-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1642-water-bottles) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0983-validate-stack-sequences) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1552-build-an-array-with-stack-operations](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1666-make-the-string-great) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1802-number-of-students-unable-to-eat-lunch) |
