@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0516-longest-palindromic-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0583-delete-operation-for-two-strings) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0456-132-pattern) |
 | [0735-asteroid-collision](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0739-daily-temperatures) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0334-increasing-triplet-subsequence) |
+| [0402-remove-k-digits](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0455-assign-cookies) |
 | [0649-dota2-senate](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0649-dota2-senate) |
 | [0891-score-after-flipping-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0891-score-after-flipping-matrix) |
@@ -594,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0739-daily-temperatures) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
