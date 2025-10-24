@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1250-longest-common-subsequence) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1454-remove-palindromic-subsequences](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1454-remove-palindromic-subsequences) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0983-validate-stack-sequences) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1552-build-an-array-with-stack-operations](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
