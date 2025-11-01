@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0402-remove-k-digits) |
+| [0443-string-compression](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0516-longest-palindromic-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0583-delete-operation-for-two-strings) |
