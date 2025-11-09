@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0069-sqrtx) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0038-count-and-say) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
