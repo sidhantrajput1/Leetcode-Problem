@@ -7,7 +7,6 @@ public:
 
         for (int i = 0; i < n; i++) {
             int remaining = target - nums[i];
-            // check remaing value present in map or not.
             if (mp.find(remaining) != mp.end()) {
                 return {mp[remaining], i};
             }
