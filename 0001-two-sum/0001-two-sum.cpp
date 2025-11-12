@@ -7,6 +7,7 @@ public:
 
         for (int i = 0; i < n; i++) {
             int remaining = target - nums[i];
+            
             if (mp.find(remaining) != mp.end()) {
                 return {mp[remaining], i};
             }
