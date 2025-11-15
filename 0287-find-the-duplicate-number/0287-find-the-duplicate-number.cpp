@@ -4,7 +4,10 @@ public:
         sort(nums.begin(), nums.end());
         int ans = nums[0];
         for (int i = 1; i < nums.size(); i++) {
-            if (nums[i] == nums[i-1]) ans = nums[i];
+            if (nums[i] == nums[i-1])  {
+                ans = nums[i];
+                break;
+            }
         }
         return ans;
     }
