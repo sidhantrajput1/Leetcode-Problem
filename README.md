@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0152-maximum-product-subarray) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0268-missing-number) |
