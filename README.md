@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0456-132-pattern) |
+| [0485-max-consecutive-ones](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0518-coin-change-ii) |
