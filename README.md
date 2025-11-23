@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0792-binary-search) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0583-delete-operation-for-two-strings) |
+| [0746-min-cost-climbing-stairs](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1013-fibonacci-number) |
