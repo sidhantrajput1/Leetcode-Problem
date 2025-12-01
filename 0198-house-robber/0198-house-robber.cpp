@@ -1,20 +1,26 @@
 class Solution {
 public:
     int n;
-    int helper(vector<int>& nums, vector<int>& dp, int i) {
-        if (i >= n) return 0;
-        
-        if (dp[i] != -1) return dp[i];
-        
-        int loot = nums[i] + helper(nums, dp, i + 2);
-        int no_loot = 0 + helper(nums, dp, i + 1);
-        
-        return dp[i] = max(loot, no_loot);
+    vector<int> dp;
+    int func(vector<int> nums) {
+        dp.clear();
+        dp.resize(n);
+
+        if (n == 1) return nums[0];
+        if (n == 2) return max(nums[0], nums[1]);
+
+        dp[n-1] = nums[n-1];
+        dp[n-2] = max(nums[n-1], nums[n-2]);
+
+        for (int i = n - 3; i >= 0; i--) {
+            dp[i] = max(dp[i+1] , nums[i] + dp[i+2]);
+        }
+
+        return dp[0];
     }
 
     int rob(vector<int>& nums) {
         n = nums.size();
-        vector<int> dp(105, -1);
-        return helper(nums, dp, 0);
+        return func(nums);
     }
 };
