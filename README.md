@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0402-remove-k-digits](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0516-longest-palindromic-subsequence) |
