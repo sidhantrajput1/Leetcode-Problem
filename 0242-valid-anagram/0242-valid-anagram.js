@@ -21,9 +21,10 @@ var isAnagram = function(s, t) {
     }
 
     for (let char of t) {
+        // if char of t is not present in obj it means is not a anagram
         if (!map[char]) {
             return false;
-        } else {
+        } else { // if char is present in obj then you neew decrease the count
             map[char]--;
         }
     }
