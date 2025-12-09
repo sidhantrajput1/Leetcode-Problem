@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0518-coin-change-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0605-can-place-flowers) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0456-132-pattern) |
+| [0540-single-element-in-a-sorted-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0792-binary-search) |
