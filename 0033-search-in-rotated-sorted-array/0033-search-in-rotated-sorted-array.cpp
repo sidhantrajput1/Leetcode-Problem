@@ -1,47 +1,33 @@
 class Solution {
 public:
-    int findPivot(vector<int>& nums, int n) {
-        int st = 0, end = n - 1;
-        while (st < end) {
-            int mid = st + (end - st) / 2;
+    int search(vector<int>& nums, int target) {
+        int st = 0, end = nums.size() - 1;
 
-            if (nums[mid] > nums[end])
-                st = mid + 1;
-            else
-                end = mid;
-        }
-        return end;
-    }
-
-    int binarySearch(int st, int end, vector<int>& nums, int target) {
-        int idx = -1;
         while (st <= end) {
             int mid = st + (end - st) / 2;
 
-            if (nums[mid] == target) {
-                idx = mid;
-                break;
-            } else if (nums[mid] < target)
-                st = mid + 1;
-            else
-                end = mid - 1;
+            if (nums[mid] == target) return mid;
+
+            // check if left half is sorted
+            if (nums[st] <= nums[mid]) {
+
+                // target lies in left sorted half
+                if (nums[st] <= target && target < nums[mid]) {
+                    end = mid - 1;
+                } else {
+                    st = mid + 1;
+                }
+            }
+            else { 
+                // right half is sorted
+                if (nums[mid] < target && target <= nums[end]) {
+                    st = mid + 1;
+                } else {
+                    end = mid - 1;
+                }
+            }
         }
-        return idx;
-    }
-    int search(vector<int>& nums, int target) {
 
-        int n = nums.size();
-        int pivot_idx = findPivot(nums, n);
-
-        // left side of pivot idx
-        int idx = binarySearch(0, pivot_idx, nums, target);
-
-        if (idx != -1)
-            return idx;
-
-        // right side of pivot index
-        idx = binarySearch(pivot_idx, n - 1, nums, target);
-
-        return idx;
+        return -1;
     }
 };
