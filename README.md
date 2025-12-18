@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2102-find-the-middle-index-in-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2187-minimum-time-to-complete-trips](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2187-minimum-time-to-complete-trips) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2215-finding-3-digit-even-numbers) |
 | [2232-adding-spaces-to-a-string](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2232-adding-spaces-to-a-string) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1046-max-consecutive-ones-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1646-kth-missing-positive-number) |
+| [2187-minimum-time-to-complete-trips](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2187-minimum-time-to-complete-trips) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
