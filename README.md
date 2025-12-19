@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2215-finding-3-digit-even-numbers) |
 | [2232-adding-spaces-to-a-string](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2439-minimize-maximum-of-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2439-minimize-maximum-of-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2551-apply-operations-to-an-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2551-apply-operations-to-an-array) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1646-kth-missing-positive-number) |
 | [2187-minimum-time-to-complete-trips](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2187-minimum-time-to-complete-trips) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2439-minimize-maximum-of-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2439-minimize-maximum-of-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-reducing-dishes](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1503-reducing-dishes) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2439-minimize-maximum-of-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2439-minimize-maximum-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -598,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2102-find-the-middle-index-in-array) |
+| [2439-minimize-maximum-of-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2439-minimize-maximum-of-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Brainteaser
 |  |
@@ -618,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-score-after-flipping-matrix](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0891-score-after-flipping-matrix) |
 | [0979-di-string-match](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0979-di-string-match) |
 | [1503-reducing-dishes](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1503-reducing-dishes) |
+| [2439-minimize-maximum-of-array](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2439-minimize-maximum-of-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Number Theory
 |  |
