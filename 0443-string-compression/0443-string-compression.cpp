@@ -2,30 +2,29 @@ class Solution {
 public:
     int compress(vector<char>& chars) {
         int n = chars.size();
+        int r = 0; // read pointer
+        int w = 0; // write pointer
 
-        int index = 0;
-        int i = 0;
-        while (i < n) {
-
-            char curr_char = chars[i];
+        while (r < n) {
+            char curr = chars[r];
             int count = 0;
 
-            while ( i < n && curr_char == chars[i]) {
+            while (r < n && curr == chars[r]) {
                 count++;
-                i++;
+                r++;
             }
 
-            chars[index] = curr_char;
-            index++;
+            chars[w] = curr;
+            w = w + 1;
 
             if (count > 1) {
-                for (char c : to_string(count)) {
-                    chars[index] = c;
-                    index++;
+                string cnt = to_string(count);
+                for (char c : cnt) {
+                    chars[w++] = c;
                 }
             }
         }
 
-        return index;
+        return w;
     }
 };
