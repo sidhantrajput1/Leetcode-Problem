@@ -1,29 +1,31 @@
 class Solution {
 public:
     string removeOuterParentheses(string s) {
-        // step 1. if stack is empty push char in stack , do not add answer
-        // step 2. if stack is not empty push char in stack but add in char in ans 
-        // step 3. if opening bracket match to closing bracket then pop from stack and char add in answer
-        // step 4. after the each step return the answer string
+        /*
+            Approach: Depth (Counter) Method
+
+            - `count` represents the current depth of nested parentheses
+            - We remove the "outermost" parentheses of every primitive substring
+
+            Rules:
+            1. When we see '(' → depth increases
+            2. When we see ')' → depth decreases
+            3. A character is part of the "outermost" parentheses if:
+               - '(' when depth == 0
+               - ')' when depth becomes 0 after decrement
+            4. Only add characters to the answer when depth != 0
+        */
 
         string ans = "";
-        stack<char> st;
+        int count = 0;
 
         for (char c : s) {
-            if (c == '(') {
-                if (!st.empty()) {
-                    ans += c;   // not outer '('
-                }
-                st.push(c);
-            } 
-            else { // c == ')'
-                st.pop();
-                if (!st.empty()) {
-                    ans += c;   // not outer ')'
-                }
+            if (c == ')') count--;
+            if (count != 0) {
+                ans.push_back(c);
             }
+            if (c == '(') count++;
         }
-
         return ans;
     }
 };
