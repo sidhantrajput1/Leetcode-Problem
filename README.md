@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0649-dota2-senate) |
 | [0953-reverse-only-letters](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0953-reverse-only-letters) |
 | [0979-di-string-match](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0979-di-string-match) |
+| [1021-remove-outermost-parentheses](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1021-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1170-shortest-common-supersequence) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0739-daily-temperatures) |
 | [0983-validate-stack-sequences](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0983-validate-stack-sequences) |
+| [1021-remove-outermost-parentheses](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1021-remove-outermost-parentheses) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
