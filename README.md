@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0583-delete-operation-for-two-strings) |
 | [0649-dota2-senate](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0649-dota2-senate) |
+| [0796-rotate-string](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0796-rotate-string) |
 | [0953-reverse-only-letters](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0953-reverse-only-letters) |
 | [0979-di-string-match](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0979-di-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/1021-remove-outermost-parentheses) |
@@ -926,4 +927,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0374-guess-number-higher-or-lower) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/sidhantrajput1/Leetcode-Problem/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
