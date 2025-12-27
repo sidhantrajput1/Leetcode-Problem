@@ -35,7 +35,7 @@ public:
         result.clear();
 
         // fixing one element n1
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n - 2; i++) {
             if (i > 0 && nums[i] == nums[i-1]) continue;
 
             int n1 = nums[i];
