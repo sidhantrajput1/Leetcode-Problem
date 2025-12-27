@@ -1,37 +1,50 @@
 class Solution {
 public:
+    vector<vector<int>> result;
+    void twoSum(vector<int>& nums, int target, int st, int end) {
+        int n = nums.size();
+        
+        
+        while (st < end) {
+            int sum = nums[st] + nums[end];
+            
+            if (sum > target) {
+                end--;
+            } else if (sum < target) {
+                st++; 
+            } else {
+                while (st < end && nums[st] == nums[st+1]) st++;
+                while (st < end && nums[end] == nums[end-1]) end--;
+
+                result.push_back({-target, nums[st], nums[end]});
+                st++;
+                end--;
+            }
+        }
+        
+    }
+
     vector<vector<int>> threeSum(vector<int>& nums) {
         int n = nums.size();
 
-        sort(nums.begin(), nums.end());
-        vector<vector<int>> ans;
+        if (n < 3) return {};
         
-        for(int i = 0; i < n; i++) {
-            // Skip duplicate elements for the first number in the triplet
-            if(i > 0 && nums[i] == nums[i-1]) continue;
+        // sort the arr first
+        sort(begin(nums), end(nums));
 
-            int j = i + 1, k = n - 1;
+        result.clear();
 
-            while(j < k) {
-                int sum = nums[i] + nums[j] + nums[k];
+        // fixing one element n1
+        for (int i = 0; i < n; i++) {
+            if (i > 0 && nums[i] == nums[i-1]) continue;
 
-                if(sum < 0) {
-                    j++;
-                } else if (sum > 0) {
-                    k--;
-                } else {
-                    ans.push_back({nums[i], nums[j], nums[k]});
-                    j++; k--;
+            int n1 = nums[i];
+            int target = -n1;
 
-                    // Skip duplicates for the second number in the triplet
-                    while(j < k && nums[j] == nums[j-1]) j++;
-                    
-                    // Skip duplicates for the third number in the triplet
-                    while(j < k && nums[k] == nums[k+1]) k--;
-                }
-            }
+            // call the two sum : it will find n2 and n3 : {n1, n2, n3}
+            twoSum(nums, target, i+1, n - 1);
         }
 
-        return ans;
+        return result;
     }   
 };
